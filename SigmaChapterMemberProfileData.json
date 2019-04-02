@@ -25,6 +25,19 @@
 	"picture": "images/Kevin_Hood.jpg"
  },
  {
+	"lastnamefirst": "Johnson, Kurt M.",
+	"displayname": "Kurt M. Johnson",
+	"initiation": "Sigma 2000",
+	"linename": "4 The Diamond",
+	"profession": "Corporate Banker",
+	"email": "mailto:kmjohnso@umich.edu",
+	"linkedin": "https://www.linkedin.com/in/kurt-johnson-11613410/",
+	"twitter": "https://twitter.com/kmjohnso79",
+	"facebook": "https://www.facebook.com/kmjohnso",
+	"instagram": "https://www.instagram.com/kmjohnso/",
+	"picture": "images/Kurt_Johnson.jpg"
+ },
+ {
 	"lastnamefirst": "Morton, Maurice G.",
 	"displayname": "Maurice G. Morton",
 	"initiation": "Sigma 1988",
@@ -36,5 +49,5 @@
 	"facebook": "https://www.facebook.com/maurice.g.morton",
 	"instagram": "https://www.instagram.com/moegmorton/",
 	"picture": "images/Maurice_Morton.jpg"
- }
+ } 
 ]
